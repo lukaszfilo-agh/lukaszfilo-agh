@@ -10,27 +10,46 @@
 
 <img src="https://komarev.com/ghpvc/?username=lukaszfilo-agh&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  Cześć!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-Jestem Łukasz, studiuje na Akademii Górniczo-Hutniczej (AGH). Witam Cię na moim profilu GitHub.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+```print('Hello World')```
 
 ---
 
-### 👨‍💻 O mnie :
-
-Jestem studentem Automatyki i Robotyki na AGH, z zamiłowaniem do nauki i rozwoju w dziedzinie informatyki.
+Hi there, I'm Łukasz, a passionate programmer and tech enthusiast. Welcome to my GitHub profile, where I share my current projects and source code.
 
 ---
 
-### :hammer_and_wrench: Języki i narzędzia :
+### 👨‍💻 About me :
 
+- 🌐 Studying Automatics and Robotics at AGH University of Krakow.
+- 🚀 Always eager to learn and experiment with new technologies.
+
+---
+
+## :construction_worker: Projects:
+
+Below are some of my projects that you might find interesting:
+
+- [Advanced Calculator](https://github.com/lukaszfilo-agh/Advanced-Calculator) - Advanced calculator with plot drawer and matrix operations.
+- [Algorithms and Data structures](https://github.com/lukaszfilo-agh/Algorithms-and-Data-structures) - Algorithms and data structures implemented during classes at the university.
+
+---
+
+## :keyboard: Skills :
+
+- **Programming Languages:**
+  - Python - including numpy, matplotlib and pandas
+  - C - programming embedded systems (STM32F4)
+  - R - basic knowledge of data analysys
+- **Tools:**
+  - Matlab - used at university with many toolboxes such as simulink
+- **Databases:**
+  - PostgreSQL
+- **Others:**
+  - Git
+
+---
+
+### :hammer_and_wrench: Languages and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
@@ -40,8 +59,19 @@ Jestem studentem Automatyki i Robotyki na AGH, z zamiłowaniem do nauki i rozwoj
 
 ---
 
-### :fire: Moje statystyki :
+## Contact
+
+📫 If you want to get in touch, feel free to email me at lukif02@gmail.com or visit my LinkedIn profile.
+
+---
+
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lukaszfilo-agh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszfilo-agh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+Thank you for visiting my profile! 🚀
 
 <!--
 % ## Umiejętności
