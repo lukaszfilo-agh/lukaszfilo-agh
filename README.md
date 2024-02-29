@@ -70,7 +70,8 @@ Below are some of my projects that you might find interesting (some of them are 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lukaszfilo-agh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszfilo-agh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszfilo-agh&layout=compact&theme=transparent)
+
 
 ---
 Thank you for visiting my profile! 🚀
