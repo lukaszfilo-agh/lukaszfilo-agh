@@ -31,8 +31,10 @@ Below are some of my projects that you might find interesting (some of them are 
 
 - [Advanced Calculator](https://github.com/lukaszfilo-agh/Advanced-Calculator) - Advanced calculator with plot drawer and matrix operations.
 - [Algorithms and Data structures](https://github.com/lukaszfilo-agh/Algorithms-and-Data-structures) - Algorithms and data structures implemented during classes at the university.
-- [Data analysis and databases](https://github.com/lukaszfilo-agh/Data-analysis-and-databases) - Assignments from the Data analysis and databases classes.
 - [Numerical methods](https://github.com/lukaszfilo-agh/Numerical-methods) - Assignments from Numerical methods classes.
+<!--
+- [Data analysis and databases](https://github.com/lukaszfilo-agh/Data-analysis-and-databases) - Assignments from the Data analysis and databases classes.
+-->
 
 ---
 
