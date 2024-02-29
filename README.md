@@ -43,7 +43,7 @@ Below are some of my projects that you might find interesting (some of them are 
 - **Programming Languages:**
   - Python - including numpy, matplotlib and pandas
   - C - programming embedded systems (STM32F4)
-  - R - basic knowledge of data analysys
+  - R - knowledge of data analysys
 - **Tools:**
   - Matlab - used at university with many toolboxes such as simulink
 - **Databases:**
