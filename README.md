@@ -30,8 +30,9 @@ Hi there, I'm Łukasz, a passionate programmer and tech enthusiast. Welcome to m
 Below are some of my projects that you might find interesting (some of them are described in Polish):
 
 - [Advanced Calculator](https://github.com/lukaszfilo-agh/Advanced-Calculator) - Advanced calculator with plot drawer and matrix operations.
-- [Algorithms and Data structures](https://github.com/lukaszfilo-agh/Algorithms-and-Data-structures) - Algorithms and data structures implemented during classes at the university.
-- [Numerical methods](https://github.com/lukaszfilo-agh/Numerical-methods) - Assignments from Numerical methods classes.
+- [Algorithms and Data structures](https://github.com/lukaszfilo-agh/Algorithms-and-Data-structures) - Algorithms and data structures implemented at the university.
+- [Numerical methods](https://github.com/lukaszfilo-agh/Numerical-methods) - Assignments from Numerical methods course.
+- [Vision systems](https://github.com/lukaszfilo-agh/SW) - Assignments from Vision systems course.
 <!--
 - [Data analysis and databases](https://github.com/lukaszfilo-agh/Data-analysis-and-databases) - Assignments from the Data analysis and databases classes.
 -->
