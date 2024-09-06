@@ -31,6 +31,7 @@ Below are some of my projects that you might find interesting (some of them are 
 
 - [Advanced Calculator](https://github.com/lukaszfilo-agh/Advanced-Calculator) - Advanced calculator with plot drawer and matrix operations.
 - [Flight Search App](https://github.com/lukaszfilo-agh/FlightSearchApp) - App for searching flights from Ryanair
+- [Reconfigurable-systems](https://github.com/lukaszfilo-agh/Reconfigurable-systems) - Assigments from Reconfigurable systems course complited on Zybo Z7 development board.
 - [Microprocessor technics](https://github.com/lukaszfilo-agh/MT) - Assignments from Microprocessor technics course. NUCLEO-F411RE microcontroller with KA-Nucleo-Multisensor.
 - [Algorithms and Data structures](https://github.com/lukaszfilo-agh/Algorithms-and-Data-structures) - Algorithms and data structures implemented at the university.
 - [Numerical methods](https://github.com/lukaszfilo-agh/Numerical-methods) - Assignments from Numerical methods course.
