@@ -8,116 +8,79 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=lukaszfilo-agh&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=lukaszfilo-agh&style=flat-square&color=blue" alt="Profile Views"/>
 
-```print('Hello World')```
-
----
-
-Hi there, I'm Łukasz, a passionate programmer and tech enthusiast. Welcome to my GitHub profile, where I share my current projects and source code.
+```python
+print('Hello, World!')
+```
 
 ---
 
-### 👨‍💻 About me :
+## 👋 About Me
 
-- 🌐 Studying Automatics and Robotics at AGH University of Krakow.
-- 🚀 Always eager to learn and experiment with new technologies.
+Hi there! I'm **Łukasz**, a passionate programmer and tech enthusiast. Welcome to my GitHub profile, where I share my projects, ideas, and experiments in software development and embedded systems.
 
----
-
-## :construction_worker: Projects:
-
-Below are some of my projects that you might find interesting (some of them are described in Polish):
-
-- [Advanced Calculator](https://github.com/lukaszfilo-agh/Advanced-Calculator) - Advanced calculator with plot drawer and matrix operations.
-- [Flight Search App](https://github.com/lukaszfilo-agh/FlightSearchApp) - App for searching flights from Ryanair
-- [Reconfigurable-systems](https://github.com/lukaszfilo-agh/Reconfigurable-systems) - Assigments from Reconfigurable systems course complited on Zybo Z7 development board.
-- [Microprocessor technics](https://github.com/lukaszfilo-agh/MT) - Assignments from Microprocessor technics course. NUCLEO-F411RE microcontroller with KA-Nucleo-Multisensor.
-- [Algorithms and Data structures](https://github.com/lukaszfilo-agh/Algorithms-and-Data-structures) - Algorithms and data structures implemented at the university.
-- [Numerical methods](https://github.com/lukaszfilo-agh/Numerical-methods) - Assignments from Numerical methods course.
-- [Vision systems](https://github.com/lukaszfilo-agh/Vision-systems) - Assignments from Vision systems course.
-<!--
-- [Data analysis and databases](https://github.com/lukaszfilo-agh/Data-analysis-and-databases) - Assignments from the Data analysis and databases classes.
--->
+### 🚀 What I Do:
+- 🎓 Studying **Automatics and Robotics** at **AGH University of Science and Technology, Kraków**.
+- 🛠️ Passionate about **software development**, **embedded systems**, and **data analysis**.
+- 🔍 Always eager to explore and experiment with new technologies.
 
 ---
 
-## :keyboard: Skills :
+## 🔨 Projects
 
-- **Programming Languages:**
-  - Python - including numpy, matplotlib and pandas
-  - C - programming embedded systems (STM32F4)
-  - R - knowledge of data analysys
-- **Tools:**
-  - Matlab - used at university with many toolboxes such as simulink
-- **Databases:**
-  - PostgreSQL
-- **Others:**
-  - Git
+Here are some of my projects that you might find interesting:
+
+- [**Advanced Calculator**](https://github.com/lukaszfilo-agh/Advanced-Calculator) - A calculator with advanced mathematical functions, plot drawing, and matrix operations.
+- [**Flight Search App**](https://github.com/lukaszfilo-agh/FlightSearchApp) - A tool to search for flights from **Ryanair**.
+- [**Reconfigurable Systems**](https://github.com/lukaszfilo-agh/Reconfigurable-systems) - Assignments from my **Reconfigurable Systems** course, using the **Zybo Z7 development board**.
+- [**Microprocessor Techniques**](https://github.com/lukaszfilo-agh/MT) - Work on **NUCLEO-F411RE** microcontrollers with **KA-Nucleo-Multisensor**.
+- [**Algorithms & Data Structures**](https://github.com/lukaszfilo-agh/Algorithms-and-Data-structures) - A collection of algorithms and data structures implemented in university coursework.
+- [**Numerical Methods**](https://github.com/lukaszfilo-agh/Numerical-methods) - Assignments on numerical methods.
+- [**Vision Systems**](https://github.com/lukaszfilo-agh/Vision-systems) - Work on computer vision techniques and image processing.
 
 ---
 
-### :hammer_and_wrench: Languages and tools :
+## 🛠 Skills
+
+### **Programming Languages:**
+- **Python** – Including **NumPy, Matplotlib, Pandas**
+- **C** – Embedded systems programming (STM32F4)
+- **R** – Data analysis & statistics
+
+### **Tools & Technologies:**
+- **Matlab** – Used in university with **Simulink** and other toolboxes
+- **PostgreSQL** – Database management
+- **Git** – Version control and collaboration
+
+---
+
+## 🔧 Languages & Tools
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-## Contact
+## 📬 Contact Me
 
-📫 If you want to get in touch, feel free to email me at lukif02@gmail.com or visit my LinkedIn profile.
+📧 Feel free to reach out via **email** at **lukif02@gmail.com** or connect with me on [**LinkedIn**](https://www.linkedin.com/in/lukaszfilo/).
+
+---
+
+## 🔥 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszfilo-agh&layout=compact&theme=transparent)
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lukaszfilo-agh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszfilo-agh&layout=compact&theme=transparent)
-
-
----
-Thank you for visiting my profile! 🚀
-
-<!--
-% ## Umiejętności
-
-% - **Języki programowania:** python
-% - **Technologie:**
-% - **Projekty:**
-
-% ## Aktualności
-
-% W tej sekcji będę informować o najnowszych projektach, wydarzeniach lub innych istotnych sprawach związanych z moją edukacją i karierą programistyczną.
-
-% ## Kontakt
-
-% - **Email:** lukif02@icloud.com
-% - **LinkedIn:** [Twój profil LinkedIn]
-% - **Twitter:** [Twój profil Twitter]
-
-% Cieszę się, że tu jesteś! Jeśli masz pytania, chętnie na nie odpowiem. Dziękuję za odwiedzenie mojego profilu!
-
-
-
-**lukaszfilo-agh/lukaszfilo-agh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! 🚀
