@@ -21,8 +21,8 @@ print('Hello, World!')
 Hi there! I'm **Łukasz**, a passionate programmer and tech enthusiast. Welcome to my GitHub profile, where I share my projects, ideas, and experiments in software development and embedded systems.
 
 ### 🚀 What I Do:
-- 🎓 Studying **Automatics and Robotics** at **AGH University of Science and Technology, Kraków**.
-- 🛠️ Passionate about **software development**, **embedded systems**, and **data analysis**.
+- 🎓 Pursuing an **MEng** in Automatics and Robotics at **AGH University of Science and Technology**, Kraków, after completing a **BEng** in the same field.
+- 🛠️ Passionate about **software development**, **webdesign**, and **data analysis**.
 - 🔍 Always eager to explore and experiment with new technologies.
 
 ---
@@ -31,8 +31,10 @@ Hi there! I'm **Łukasz**, a passionate programmer and tech enthusiast. Welcome 
 
 Here are some of my projects that you might find interesting:
 
-- [**Advanced Calculator**](https://github.com/lukaszfilo-agh/Advanced-Calculator) - A calculator with advanced mathematical functions, plot drawing, and matrix operations.
+- [**Cinema Ticket Reservation System**](https://github.com/AIR-SR/Cinema-Ticket-Reservation-System) - Full-stack app for managing cinemas, movies, and ticket bookings.
+- [**Inventory Manager**](https://github.com/lukaszfilo-agh/Inventory-Management) - Full-stack app for tracking and managing inventory across multiple warehouses.
 - [**Flight Search App**](https://github.com/lukaszfilo-agh/FlightSearchApp) - A tool to search for flights from **Ryanair**.
+- [**Advanced Calculator**](https://github.com/lukaszfilo-agh/Advanced-Calculator) - A calculator with advanced mathematical functions, plot drawing, and matrix operations.
 - [**Reconfigurable Systems**](https://github.com/lukaszfilo-agh/Reconfigurable-systems) - Assignments from my **Reconfigurable Systems** course, using the **Zybo Z7 development board**.
 - [**Microprocessor Techniques**](https://github.com/lukaszfilo-agh/MT) - Work on **NUCLEO-F411RE** microcontrollers with **KA-Nucleo-Multisensor**.
 - [**Algorithms & Data Structures**](https://github.com/lukaszfilo-agh/Algorithms-and-Data-structures) - A collection of algorithms and data structures implemented in university coursework.
@@ -44,7 +46,8 @@ Here are some of my projects that you might find interesting:
 ## 🛠 Skills
 
 ### **Programming Languages:**
-- **Python** – Including **NumPy, Matplotlib, Pandas**
+- **Python** – Including **NumPy, Matplotlib, Pandas**, backed technologies such as **FastAPI**
+- **React** - Used for front end applications
 - **C** – Embedded systems programming (STM32F4)
 - **R** – Data analysis & statistics
 
@@ -67,6 +70,7 @@ Here are some of my projects that you might find interesting:
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
 ---
