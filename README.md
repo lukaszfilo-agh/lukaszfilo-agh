@@ -46,8 +46,8 @@ Here are some of my projects that you might find interesting:
 ## 🛠 Skills
 
 ### **Programming Languages:**
-- **Python** – Including **NumPy, Matplotlib, Pandas**, backed technologies such as **FastAPI**
-- **React** - Used for front end applications
+- **Python** – For scripting, data analysis, and backend (e.g., FastAPI, NumPy, Pandas, Matplotlib)
+- **JavaScript** – Used in frontend development, especially with React
 - **C** – Embedded systems programming (STM32F4)
 - **R** – Data analysis & statistics
 
@@ -65,19 +65,20 @@ Here are some of my projects that you might find interesting:
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ## 📬 Contact Me
 
-📧 Feel free to reach out via **email** at **lukif02@gmail.com** or connect with me on [**LinkedIn**](https://www.linkedin.com/in/lukaszfilo/).
+📧 Reach me at [lukif02@gmail.com](mailto:lukif02@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/lukaszfilo/).
 
 ---
 
