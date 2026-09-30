@@ -17,13 +17,13 @@
 
 ## About Me
 
-I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, working at **HEINEKEN Global Shared Services** on digital products, web analytics, and Umbraco CMS for global brands. I care about clean backend design, reliable data pipelines, and turning stakeholder needs into shipped solutions from Python automation to distributed APIs.
+I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, working at **HEINEKEN Global Shared Services** on digital products, web analytics, and Umbraco CMS for global brands. I care about clean backend design, reliable data pipelines, and turning stakeholder needs into shipped solutions.
 
 ---
 
 ## Right Now
 
-- 🔭 Working on digital product delivery, CMS migrations, and analytics at **HEINEKEN GSS**
+- 🔭 Working on digital product delivery, CMS migrations, and analytics at **HEINEKEN**
 - 🧠 Deepening **backend systems**, **Bayesian / statistical modeling**, and **data-driven product work**
 - 🌱 Running a self-hosted **homelab** (Docker, networking, reverse proxies) for hands-on ops practice
 - 🤝 Open to collaborating on **Python/FastAPI**, **analytics**, and **full-stack** side projects
