@@ -100,7 +100,7 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 <div align="center">
 
 <a href="https://github.com/lukaszfilo-agh">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lukaszfilo-agh&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Łukasz's GitHub stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaszfilo-agh&theme=transparent&hide_border=true" alt="GitHub streak" />
 </a>
 
 </div>
