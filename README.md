@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Łukasz Filo 👋
+# Hi there, I'm Łukasz 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Solution+Engineer+%40+HEINEKEN;Backend+%26+Data+enthusiast;Python+%7C+PostgreSQL+%7C+Analytics;Building+data-driven+solutions)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, working at **HEINEKEN Global Shared Services** on digital products, web analytics, and Umbraco CMS for global brands. I care about clean backend design, reliable data pipelines, and turning stakeholder needs into shipped solutions — from Python automation to distributed APIs.
+I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, working at **HEINEKEN Global Shared Services** on digital products, web analytics, and Umbraco CMS for global brands. I care about clean backend design, reliable data pipelines, and turning stakeholder needs into shipped solutions from Python automation to distributed APIs.
 
 ---
 
@@ -34,6 +34,7 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 ## Tech Stack
 
 ### Backend & Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -42,10 +43,12 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Cloud, Analytics & CMS
+
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
@@ -54,6 +57,7 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white)
 
 ### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,6 +65,7 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ### Engineering & Hardware
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-E87722?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog%20%2F%20FPGA-1A1A1A?style=for-the-badge&logo=siliconlabs&logoColor=white)
@@ -70,21 +75,21 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 
 ## Featured Experience & Projects
 
-| Project / Role | Description | Tech Used |
-| :--- | :--- | :--- |
-| **Junior Solution Engineer** · [HEINEKEN GSS](https://www.heineken.com/) | Led lifecycle work for global brand sites — including migration of **9 websites** to new **Umbraco** versions — plus feature scoping, UAT, Python automation, and privacy/consent configs across markets. | Umbraco, Python, GA / GTM, Looker Studio, Agile |
-| [**Cinema Ticket Reservation System**](https://github.com/AIR-SR/Cinema-Ticket-Reservation-System) | Full-stack booking platform with RBAC/JWT API, regional **PostgreSQL** + global users, and Dockerized services. | FastAPI, React, PostgreSQL, Docker |
-| **F1 Bayesian Success Factor Analysis** *(M.Eng. thesis)* | Hierarchical ordered logistic model of F1 finishing positions (2018–2021) with driver/team/season effects; full scrape → MCMC → model comparison pipeline. | Python, Stan / CmdStanPy, pandas |
+| Project / Role                                                                                     | Description                                                                                                                                                                                           | Tech Used                                       |
+| :------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| **Junior Solution Engineer** · [HEINEKEN GSS](https://www.heineken.com/)                           | Led lifecycle work for global brand sites including migration of **9 websites** to new **Umbraco** versions plus feature scoping, UAT, Python automation, and privacy/consent configs across markets. | Umbraco, Python, GA / GTM, Looker Studio, Agile |
+| [**Cinema Ticket Reservation System**](https://github.com/AIR-SR/Cinema-Ticket-Reservation-System) | Full-stack booking platform with RBAC/JWT API, regional **PostgreSQL** + global users, and Dockerized services.                                                                                       | FastAPI, React, PostgreSQL, Docker              |
+| **F1 Bayesian Success Factor Analysis** _(M.Eng. thesis)_                                          | Hierarchical ordered logistic model of F1 finishing positions (2018–2021) with driver/team/season effects; full scrape → MCMC → model comparison pipeline.                                            | Python, Stan / CmdStanPy, pandas                |
 
 <details>
 <summary><b>More projects</b></summary>
 <br>
 
-| Project | Description | Tech Used |
-| :--- | :--- | :--- |
-| **Self-Hosted Homelab** | Linux server stack for personal ops practice: containers, reverse proxies, backups, ad blocking, media. | Linux, Docker, Networking |
-| [**Inventory Management System**](https://github.com/lukaszfilo-agh/Inventory-Management) | Multi-level permissions, relational schema, auth, CRUD, and admin panel. | Python, SQLAlchemy, PostgreSQL |
-| [**Flight Search App**](https://github.com/lukaszfilo-agh/FlightSearchApp) | Search/filter flights via external APIs with OOP design and solid error handling. | Python, External APIs |
+| Project                                                                                   | Description                                                                                             | Tech Used                      |
+| :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ | :----------------------------- |
+| **Self-Hosted Homelab**                                                                   | Linux server stack for personal ops practice: containers, reverse proxies, backups, ad blocking, media. | Linux, Docker, Networking      |
+| [**Inventory Management System**](https://github.com/lukaszfilo-agh/Inventory-Management) | Multi-level permissions, relational schema, auth, CRUD, and admin panel.                                | Python, SQLAlchemy, PostgreSQL |
+| [**Flight Search App**](https://github.com/lukaszfilo-agh/FlightSearchApp)                | Search/filter flights via external APIs with OOP design and solid error handling.                       | Python, External APIs          |
 
 </details>
 
@@ -97,11 +102,6 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 <a href="https://github.com/lukaszfilo-agh">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=lukaszfilo-agh&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Łukasz's GitHub stats" />
 </a>
-<a href="https://github.com/lukaszfilo-agh">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaszfilo-agh&theme=transparent&hide_border=true" alt="GitHub streak" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszfilo-agh&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
