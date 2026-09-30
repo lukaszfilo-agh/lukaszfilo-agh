@@ -1,112 +1,120 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lukaszfilo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lukaszfilo-agh&style=flat-square&color=blue" alt="Profile Views"/>
+
+# Hi there, I'm Łukasz Filo 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Solution+Engineer+%40+HEINEKEN;Backend+%26+Data+enthusiast;Python+%7C+PostgreSQL+%7C+Analytics;Building+data-driven+solutions)](https://git.io/typing-svg)
+
+**Junior Solution Engineer** · Kraków, Poland · AGH M.Eng. Automatics & Robotics
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukaszfilo/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukif02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukaszfilo-agh)
+[![Profile views](https://komarev.com/ghpvc/?username=lukaszfilo-agh&style=for-the-badge&color=2F81F7)](https://github.com/lukaszfilo-agh)
+
 </div>
 
-```python
-print('Hello, World!')
-```
+---
+
+## About Me
+
+I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, working at **HEINEKEN Global Shared Services** on digital products, web analytics, and Umbraco CMS for global brands. I care about clean backend design, reliable data pipelines, and turning stakeholder needs into shipped solutions — from Python automation to distributed APIs.
 
 ---
 
-## 👋 About Me
+## Right Now
 
-Hi there! I'm **Łukasz**, a Solution Engineer based in Kraków. Welcome to my GitHub profile — I share projects and experiments across backend systems, data analysis, and engineering.
-
-### 🚀 What I Do
-- 💻 **Junior Solution Engineer** at HEINEKEN Global Shared Services — digital product management, Umbraco CMS, web analytics, and Python automation for global brand platforms.
-- 🎓 **M.Eng. in Automatics & Robotics** (IT in Control and Management) at AGH University of Science and Technology, Kraków — following a **B.Eng.** in the same field.
-- 📊 Master's thesis: *Analysis of Factors Influencing Performance in Formula 1 Races Using Statistical Methods and Bayesian Modeling*.
-- 🛠️ Focused on **backend architecture**, **data-driven solutions**, and **engineering problem-solving**.
+- 🔭 Working on digital product delivery, CMS migrations, and analytics at **HEINEKEN GSS**
+- 🧠 Deepening **backend systems**, **Bayesian / statistical modeling**, and **data-driven product work**
+- 🌱 Running a self-hosted **homelab** (Docker, networking, reverse proxies) for hands-on ops practice
+- 🤝 Open to collaborating on **Python/FastAPI**, **analytics**, and **full-stack** side projects
+- 💬 Ask me about **Umbraco**, **GTM / GA / Looker Studio**, or shipping features across global teams
 
 ---
 
-## 🔨 Featured Projects
+## Tech Stack
 
-- [**Cinema Ticket Reservation System**](https://github.com/AIR-SR/Cinema-Ticket-Reservation-System)  
-  Full-stack cinema booking platform with **FastAPI (Python)** and **React**. RESTful API with RBAC and JWT auth, distributed **PostgreSQL** (regional DBs + global users), containerized with **Docker**.
+### Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-- **Self-Hosted Homelab Infrastructure**  
-  Personal Linux server environment for development, testing, and ops practice. Containerized services with **Docker**, reverse proxies, automated backups, network-wide ad blocking, and local media — focused on availability and privacy.
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- [**Inventory Management System**](https://github.com/lukaszfilo-agh/Inventory-Management)  
-  Backend-driven inventory app with multi-level permissions. Relational schema in **PostgreSQL** via **SQLAlchemy ORM**, plus authentication, CRUD, and an admin panel.
+### Cloud, Analytics & CMS
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Tag Manager](https://img.shields.io/badge/Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white)
 
-- [**Flight Search App**](https://github.com/lukaszfilo-agh/FlightSearchApp)  
-  Flight search and filtering app integrating external APIs. Built with **Python**, with OOP design, structured error handling, and a focus on performance and clean architecture.
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-- **F1 Bayesian Success Factor Analysis** *(Master's thesis)*  
-  Hierarchical ordered logistic model of Formula 1 finishing positions (2018–2021) with driver/team/season random effects — built with **Python**, **Stan / CmdStanPy**, and a full scrape → prepare → MCMC → LOO/WAIC pipeline.
+### Engineering & Hardware
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-E87722?style=for-the-badge&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog%20%2F%20FPGA-1A1A1A?style=for-the-badge&logo=siliconlabs&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black)
+
+---
+
+## Featured Experience & Projects
+
+| Project / Role | Description | Tech Used |
+| :--- | :--- | :--- |
+| **Junior Solution Engineer** · [HEINEKEN GSS](https://www.heineken.com/) | Led lifecycle work for global brand sites — including migration of **9 websites** to new **Umbraco** versions — plus feature scoping, UAT, Python automation, and privacy/consent configs across markets. | Umbraco, Python, GA / GTM, Looker Studio, Agile |
+| [**Cinema Ticket Reservation System**](https://github.com/AIR-SR/Cinema-Ticket-Reservation-System) | Full-stack booking platform with RBAC/JWT API, regional **PostgreSQL** + global users, and Dockerized services. | FastAPI, React, PostgreSQL, Docker |
+| **F1 Bayesian Success Factor Analysis** *(M.Eng. thesis)* | Hierarchical ordered logistic model of F1 finishing positions (2018–2021) with driver/team/season effects; full scrape → MCMC → model comparison pipeline. | Python, Stan / CmdStanPy, pandas |
 
 <details>
-<summary><b>📚 University Coursework & Embedded Systems</b></summary>
+<summary><b>More projects</b></summary>
 <br>
 
-- **B.Eng. thesis** — FPGA controller for a physical magnetic sphere suspension model (Verilog).
-- [**Reconfigurable Systems**](https://github.com/lukaszfilo-agh/Reconfigurable-systems) — FPGA development and digital logic on the Zybo Z7.
-- [**Microprocessor Techniques**](https://github.com/lukaszfilo-agh/MT) — Embedded **C** on NUCLEO-F411RE (STM32F4).
-- [**Algorithms & Data Structures**](https://github.com/lukaszfilo-agh/Algorithms-and-Data-structures) — Core CS algorithms from coursework.
-- [**Numerical Methods**](https://github.com/lukaszfilo-agh/Numerical-methods) — Computational mathematics assignments.
-- [**Vision Systems**](https://github.com/lukaszfilo-agh/Vision-systems) — Computer vision with **OpenCV**.
+| Project | Description | Tech Used |
+| :--- | :--- | :--- |
+| **Self-Hosted Homelab** | Linux server stack for personal ops practice: containers, reverse proxies, backups, ad blocking, media. | Linux, Docker, Networking |
+| [**Inventory Management System**](https://github.com/lukaszfilo-agh/Inventory-Management) | Multi-level permissions, relational schema, auth, CRUD, and admin panel. | Python, SQLAlchemy, PostgreSQL |
+| [**Flight Search App**](https://github.com/lukaszfilo-agh/FlightSearchApp) | Search/filter flights via external APIs with OOP design and solid error handling. | Python, External APIs |
+
 </details>
 
 ---
 
-## 🛠 Skills & Technologies
+## GitHub Stats
 
-### **Programming & Backend**
-- **Python** (FastAPI, SQLAlchemy, pandas)
-- **PostgreSQL**
-- **C** (embedded / STM32)
-- **JavaScript / React**
+<div align="center">
 
-### **Data, Analytics & CMS**
-- **Google Cloud** (BigQuery), **Google Analytics**, **Tag Manager**, **Looker Studio**
-- **Umbraco CMS** & Ensighten Privacy
+<a href="https://github.com/lukaszfilo-agh">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lukaszfilo-agh&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Łukasz's GitHub stats" />
+</a>
+<a href="https://github.com/lukaszfilo-agh">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaszfilo-agh&theme=transparent&hide_border=true" alt="GitHub streak" />
+</a>
 
-### **DevOps & Methodology**
-- **Docker** & **Git**
-- **Agile / Scrum** (Jira, Confluence)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszfilo-agh&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 
-### **Engineering & Hardware**
-- **MATLAB & Simulink**
-- **FPGA** (Verilog)
-- **LabVIEW**
-
----
-
-## 🔧 Tech Stack
-
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-## 📬 Contact Me
+## Connect With Me
 
-📧 [lukif02@gmail.com](mailto:lukif02@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/lukaszfilo/)
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Łukasz%20Filo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukaszfilo/)
+[![Email](https://img.shields.io/badge/lukif02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukif02@gmail.com)
+[![GitHub](https://img.shields.io/badge/lukaszfilo--agh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukaszfilo-agh)
 
-Thanks for visiting! 🚀
+📍 Kraków, Poland · Open to interesting engineering conversations
+
+</div>
