@@ -41,6 +41,9 @@ Hi there! I'm **Łukasz**, a Solution Engineer based in Kraków. Welcome to my G
 - [**Inventory Management System**](https://github.com/lukaszfilo-agh/Inventory-Management)  
   Backend-driven inventory app with multi-level permissions. Relational schema in **PostgreSQL** via **SQLAlchemy ORM**, plus authentication, CRUD, and an admin panel.
 
+- [**Flight Search App**](https://github.com/lukaszfilo-agh/FlightSearchApp)  
+  Flight search and filtering app integrating external APIs. Built with **Python**, with OOP design, structured error handling, and a focus on performance and clean architecture.
+
 - **F1 Bayesian Success Factor Analysis** *(Master's thesis)*  
   Hierarchical ordered logistic model of Formula 1 finishing positions (2018–2021) with driver/team/season random effects — built with **Python**, **Stan / CmdStanPy**, and a full scrape → prepare → MCMC → LOO/WAIC pipeline.
 
