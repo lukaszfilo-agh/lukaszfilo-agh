@@ -2,11 +2,12 @@
 
 # Hi there, I'm Łukasz 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Solution+Engineer+%40+HEINEKEN;Digital+Products+%26+Architecture;Backend+%26+Data+Enthusiast;Bridging+Tech+%26+Business)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Solution+Engineer+%40+HEINEKEN;Digital+Products+%26+CMS;Backend+%26+Infrastructure;Python+Automation)](https://git.io/typing-svg)
 
 **Junior Solution Engineer** · Kraków, Poland · AGH M.Eng. Automatics & Robotics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukaszfilo/)
+[![Website](https://img.shields.io/badge/Website-filo.ovh-252525?style=for-the-badge&logo=googlechrome&logoColor=white)](https://filo.ovh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukif02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukaszfilo-agh)
 [![Profile views](https://komarev.com/ghpvc/?username=lukaszfilo-agh&style=for-the-badge&color=2F81F7)](https://github.com/lukaszfilo-agh)
@@ -17,16 +18,16 @@
 
 ## About Me
 
-I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, working at **HEINEKEN Global Shared Services** on digital products, web analytics, and Umbraco CMS for global brands. I bridge the gap between technical execution and business strategy combining a passion for clean backend design and reliable data pipelines with Agile product ownership, system architecture, and translating stakeholder needs into shipped solutions.
+I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background. At **HEINEKEN Global Shared Services**, I drive digital product lifecycles, coordinate global **Umbraco CMS** migrations, and enable digital campaigns. I focus on translating stakeholder needs into scalable, shipped solutions through system architecture and cross-team coordination. Beyond my day-to-day, I build **Python automation tools** and maintain a self-hosted homelab to stay hands-on with **Docker, infrastructure, and networking**.
 
 ---
 
 ## Right Now
 
-- 🔭 Working on digital product delivery, CMS migrations, and analytics architecture at **HEINEKEN**
-- 🧠 Deepening **system architecture**, **Agile product ownership**, alongside **backend & statistical modeling**
-- 🌱 Running a self-hosted **homelab** (Docker, networking, reverse proxies) to maintain hands-on infrastructure knowledge
-- 🤝 Open to collaborating on **product strategy**, **systems architecture**, and **full-stack / analytics** initiatives
+- 🔭 Working on digital product delivery, CMS migrations, and campaign enablement at **HEINEKEN**
+- 🧠 Building out side projects using **Python**, **FastAPI**, and **PostgreSQL**
+- 🌱 Running a self-hosted **homelab** (Docker, networking, Proxmox, reverse proxies) to maintain hands-on ops knowledge
+- 🤝 Open to collaborating on **backend development**, **systems architecture**, and **automation** initiatives
 
 ---
 
@@ -46,7 +47,7 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Cloud, Analytics & CMS
+### Cloud, CMS & Tracking
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
@@ -68,13 +69,13 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 
 ## Featured Experience & Projects
 
-| Project / Role                                                                                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                            | Tech Used                                         |
-| :------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------ |
-| **Junior Solution Engineer** · [HEINEKEN](https://www.heineken.com/)                               | Managed digital product lifecycles and orchestrated the full-scale migration of 9 global brand websites to new Umbraco CMS versions. Analyzed incoming feature requests, conducted technical feasibility studies, and prioritized deployment roadmaps. Facilitated User Acceptance Testing (UAT) and bridged communication between local markets and development agencies. Engineered Python automation scripts and maintained global data compliance. | Umbraco, Python, GA / GTM, Looker Studio, Agile   |
-| **Freelance IT Consultant** · Independent                                                          | Deployed containerized Django web applications using Docker within a VMware environment. Architected secure network infrastructure implementing VLANs and ACLs. Configured Nginx Proxy Manager on Proxmox for safe public CRM access, provisioned SSL/TLS certificates, and ensured high availability through automated backups to a NAS and real-time monitoring via Uptime Kuma.                                                                     | Linux, Docker, Proxmox, VMware, Nginx, Networking |
-| **Intern** · [HEINEKEN](https://www.heineken.com/)                                                 | Spearheaded a proof-of-concept initiative deploying Copilot Studio solutions for internal operations and external implementation. Designed web analytics dashboards utilizing Google Analytics and Looker Studio. Implemented Google Tag Manager configurations to establish highly accurate tracking frameworks and streamlined project delivery workflows via rigorous stakeholder communications.                                                   | Copilot Studio, GA, GTM, Looker Studio            |
-| [**Cinema Ticket Reservation System**](https://github.com/AIR-SR/Cinema-Ticket-Reservation-System) | Full-stack booking platform with RBAC/JWT API, regional **PostgreSQL** + global users, and Dockerized services.                                                                                                                                                                                                                                                                                                                                        | FastAPI, React, PostgreSQL, Docker                |
-| **F1 Bayesian Success Factor Analysis** _(M.Eng. thesis)_                                          | Hierarchical ordered logistic model of F1 finishing positions (2018–2021) with driver/team/season effects; full scrape → MCMC → model comparison pipeline.                                                                                                                                                                                                                                                                                             | Python, Stan / CmdStanPy, pandas                  |
+| Project / Role                                                                                     | Description                                                                                                                                                                                                                                                                                                                                      | Tech Used                                         |
+| :------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------ |
+| **Junior Solution Engineer** · [HEINEKEN](https://www.heineken.com/)                               | Driving digital product lifecycles, Umbraco CMS migrations for 9 global brands, and digital campaign enablement. Facilitating UAT, conducting technical feasibility studies, prioritizing deployment roadmaps, and developing Python automation scripts to streamline recurring operational tasks.                                               | Umbraco, Python, GA / GTM, Looker Studio, Agile   |
+| **Freelance IT Consultant** · Independent                                                          | Deployed containerized Django web applications using Docker within a VMware environment. Configured secure network infrastructure using VLANs and ACLs. Set up Nginx Proxy Manager on Proxmox for public CRM access, provisioned SSL/TLS certificates, and configured automated backups to a NAS alongside real-time monitoring via Uptime Kuma. | Linux, Docker, Proxmox, VMware, Nginx, Networking |
+| **Intern** · [HEINEKEN](https://www.heineken.com/)                                                 | Led a proof-of-concept initiative deploying Copilot Studio solutions for internal operations. Built web analytics dashboards using Google Analytics and Looker Studio. Configured Google Tag Manager to establish tracking frameworks and supported project delivery workflows through clear stakeholder communication.                          | Copilot Studio, GA, GTM, Looker Studio            |
+| [**Cinema Ticket Reservation System**](https://github.com/AIR-SR/Cinema-Ticket-Reservation-System) | Full-stack booking platform with RBAC/JWT API, regional **PostgreSQL** + global users, and Dockerized services.                                                                                                                                                                                                                                  | FastAPI, React, PostgreSQL, Docker                |
+| **F1 Bayesian Success Factor Analysis** _(M.Eng. thesis)_                                          | Hierarchical ordered logistic model of F1 finishing positions (2018–2021) with driver/team/season effects; full scrape → MCMC → model comparison pipeline.                                                                                                                                                                                       | Python, Stan / CmdStanPy, pandas                  |
 
 <details>
 <summary><b>More projects</b></summary>
@@ -82,7 +83,7 @@ I'm a **Solution Engineer** with an Automatics & Robotics M.Eng. background, wor
 
 | Project                                                                                   | Description                                                                                                                                | Tech Used                      |
 | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------- |
-| **FPGA Magnetic Suspension Controller** _(B.Eng. thesis)_                                 | Engineered a controller for the physical model of the magnetic suspension of a sphere made using FPGA technology.                          | Verilog, FPGA                  |
+| **FPGA Magnetic Suspension Controller** _(B.Eng. thesis)_                                 | Built a controller for the physical model of a magnetic sphere suspension using FPGA technology.                                           | Verilog, FPGA                  |
 | **Self-Hosted Homelab Infrastructure**                                                    | Linux server stack for personal ops practice: containerized applications, reverse proxies, backups, ad blocking, and local media services. | Linux, Docker, Networking      |
 | [**Inventory Management System**](https://github.com/lukaszfilo-agh/Inventory-Management) | Multi-level permissions, relational schema, auth, CRUD, and admin panel.                                                                   | Python, SQLAlchemy, PostgreSQL |
 | [**Flight Search App**](https://github.com/lukaszfilo-agh/FlightSearchApp)                | Search/filter flights via external APIs with OOP design and solid error handling.                                                          | Python, External APIs          |
